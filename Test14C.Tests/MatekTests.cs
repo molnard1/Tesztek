@@ -1,7 +1,7 @@
 using FluentAssertions;
 using Microsoft.CSharp.RuntimeBinder;
 
-namespace Test14C.Tests
+namespace Test14C.Tests.xUnit
 {
     public class MatekTests
     {
